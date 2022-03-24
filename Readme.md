@@ -8,7 +8,7 @@ Project used as a basis for learning advanced usage of Chrome DevTools. From web
 
 ## Demo
 
-
+https://ceep-chrome-dev-tools.vercel.app/
 
 ## Project Features
 
@@ -33,7 +33,7 @@ Project used as a basis for learning advanced usage of Chrome DevTools. From web
 Clone the project
 
 ```bash
-  git clone https://github.com/victorhubarb/SkillUp
+  git clone https://github.com/victorhubarb/Ceep-Chrome-DevTools
 ```
 
 ## Future Implementations
